@@ -52,7 +52,7 @@ preguntas = [
     "¿Te hizo querer repetir la experiencia?"
 ]
 
-# Bucle while para preguntar y obtener respuestas
+# Preguntar y obtener respuestas
 indice = 0
 while indice < len(preguntas):
     pregunta = preguntas[indice]
