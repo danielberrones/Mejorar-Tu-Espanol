@@ -1,4 +1,4 @@
-# Lista de preguntas
+## Lista de preguntas
 preguntas = [
     "¿Te gustó eso?",
     "¿Te encantó eso?",
